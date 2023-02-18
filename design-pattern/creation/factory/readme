@@ -1,0 +1,3 @@
+when we have lots of sub class of base class
+then we can create factoty class that will provide the class that we needed
+it will decouple object creation and we  just need  to call factory to get desire class
